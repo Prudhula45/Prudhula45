@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Venkata Prudhula Gurrala
+#  Hi, I'm Venkata Prudhula Gurrala
 
-🚀 **Data Engineer | AI Engineer | Building Scalable & Intelligent Systems**
-📍 Chicago, IL
+ **Data Engineer | AI Engineer | Building Scalable & Intelligent Systems**
+
 
 ---
 
-## ⚡ Tech Stack Snapshot
+## ⚡ Tech Stack 
 
 ![AWS](https://img.shields.io/badge/AWS-Expert-orange?logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-Engineer-blue?logo=microsoft-azure)
