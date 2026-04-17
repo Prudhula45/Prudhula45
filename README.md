@@ -148,10 +148,7 @@
 
 ---
 
-## 📫 Connect With Me
 
-* 💼 LinkedIn: (add your link)
-* 🌐 Portfolio: (optional)
 
 ---
 
