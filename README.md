@@ -123,37 +123,12 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Prudhula45\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhula45\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prudhula45\&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-
-![visitors](https://komarev.com/ghpvc/?username=Prudhula45)
-
----
 
 
 
----
 
 ⭐ *I design systems that scale. I build AI that reasons. I solve problems that matter.*
-## Hi there 👋
+
 
 <!--
 **Prudhula45/Prudhula45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
