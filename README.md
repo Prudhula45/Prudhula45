@@ -1,4 +1,4 @@
-#  Hi, I'm Venkata Prudhula Gurrala
+#  Hi, I'm Venkata Gurrala
 
  **Data Engineer | AI Engineer | Building Scalable & Intelligent Systems**
 
